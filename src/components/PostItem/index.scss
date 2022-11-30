@@ -1,0 +1,14 @@
+@import "../../scss/vars";
+
+.post-item__title {
+  font-weight: 700;
+  font-size: 18px;
+  color: $black;
+  margin-bottom: 10px;
+}
+.post-item__body {
+  font-size: 16px;
+  font-weight: 500;
+  color: $black;
+  opacity: .7;
+}

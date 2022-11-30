@@ -1,0 +1,19 @@
+@import "../../scss/vars";
+
+.comment-item__name {
+  font-weight: 700;
+  font-size: 18px;
+  color: $black;
+  margin-bottom: 10px;
+}
+.comment-item__email {
+  font-size: 14px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.comment-item__body {
+  font-size: 16px;
+  font-weight: 500;
+  color: $black;
+  opacity: .7;
+}
